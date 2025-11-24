@@ -1,0 +1,15 @@
+# Spark output logs
+*/output/*/_*
+
+# sbt & Spark generated folders
+target/
+project/
+
+# Temporary Spark directories
+spark-*
+
+# Python cache
+__pycache__/
+
+# Windows junk files
+Thumbs.db
